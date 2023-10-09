@@ -51,3 +51,7 @@ The neural network model significantly outperforms Lasso and Linear regression m
 
    ```bash
    git clone <repository-url>
+
+## Conclusion
+
+This project demonstrates the power of neural networks in predicting car prices. By following the steps outlined in this README, you can apply this model to your own car price prediction tasks. Feel free to experiment with different datasets and model configurations to achieve even better results.
